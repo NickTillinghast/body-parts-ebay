@@ -26,7 +26,7 @@
     - AvailableBodyParts.js
     - Profile.js
   - App.js
-  - indux.js
+  - index.js
   - index.css => reset.css
   - setupProxy.js
   - ducks/
